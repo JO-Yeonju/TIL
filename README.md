@@ -1,4 +1,4 @@
 # TIL
 
-Write by vim
+## 나의 각오
 Today I learned..
